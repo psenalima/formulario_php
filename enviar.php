@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>POST</title>
+    <title>INFORMACOES</title>
 </head>
 <body>
 <?php
